@@ -1,0 +1,8 @@
+{
+  "name": "Golf Wager",
+  "short_name": "GolfWager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A14",
+  "theme_color": "#0B1A14"
+}
